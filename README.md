@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="https://github.com/VIKASS-SS/VIKASS-SS/blob/main/Data%20Analytics%20training%20in%20kochi.jpeg" alt="Profile Banner" width="60%",height="50%">
-</p>
-
 <h1 align="center">Hi 👋, I'm VIKAS SINGH!</h1>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikass-ss&show_icons=true&locale=en&theme=city_lights&count_private=true&hide_border=true" alt="vikass-ss's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikass-ss&locale=en&theme=city_lights&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=vikass-ss&theme=city_lights&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikass-ss&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/vikass-ss" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @vikass-ss" /></a>
+</p>
 
 <h3 align="left">More About Me:</h3>
 
@@ -35,15 +41,9 @@
 <img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
+<h4 align="left">Other Skills:</h4>
+<p>Data Management</p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vikass-ss&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="vikass-ss's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikass-ss&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=vikass-ss&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikass-ss&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/vikass-ss" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @vikass-ss" /></a>
-</p>
