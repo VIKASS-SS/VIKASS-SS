@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VIKASS-SS/VIKASS-SS/blob/main/Data%20Analytics%20training%20in%20kochi.jpeg" alt="Profile Banner" width="60%">
+  <img src="https://github.com/VIKASS-SS/VIKASS-SS/blob/main/Data%20Analytics%20training%20in%20kochi.jpeg" alt="Profile Banner" width="60%",height="50%">
 </p>
 
 <h1 align="center">Hi 👋, I'm VIKAS SINGH!</h1>
